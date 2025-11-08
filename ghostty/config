@@ -1,0 +1,10 @@
+# Font Config
+# font-family = BerkeleyMono Nerd Font
+font-size = 14
+
+# Theme Config
+theme = Gruvbox Dark Hard
+
+# Mouse and Cursor Config
+mouse-hide-while-typing = true
+cursor-style = block
