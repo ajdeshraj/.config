@@ -5,3 +5,4 @@
 ./nvim/
 ./nvim/spell/
 ./nvim/lazy-lock.json
+./zsh/.zsh_history
