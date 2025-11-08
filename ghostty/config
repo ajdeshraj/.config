@@ -1,6 +1,6 @@
 # Font Config
-# font-family = BerkeleyMono Nerd Font
 font-size = 14
+font-family = "TX-02 Regular"
 
 # Theme Config
 theme = Gruvbox Dark Hard
