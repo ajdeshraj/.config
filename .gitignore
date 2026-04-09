@@ -1,8 +1,8 @@
-./nvim/tags
-./nvim/test.sh
-./nvim/.luarc.json
-./nvim/nvim
-./nvim/
-./nvim/spell/
-./nvim/lazy-lock.json
-./zsh/.zsh_history
+nvim/tags
+nvim/test.sh
+nvim/.luarc.json
+nvim/nvim
+nvim/
+nvim/spell/
+nvim/lazy-lock.json
+zsh/.zsh_history
