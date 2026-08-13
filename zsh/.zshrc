@@ -8,3 +8,8 @@ alias glog="git log --graph --decorate"
 
 # Initialise starship
 eval "$(starship init zsh)"
+
+# Autostart zellij welcome session
+if [[ -z "$ZELLIJ" && $- == *i* ]] && command -v zellij >/dev/null; then
+  exec zellij -l welcome
+fi
